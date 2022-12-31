@@ -3,7 +3,7 @@ compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaymqehav5auibvefacl54i4rbeo7crl5qambq
 availabilityDomain = "omie:AP-SINGAPORE-1-AD-1"
 imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaapekwgf5gp2g5fipburnwmf7qklxlq6wn2nzt2gwksqrpnr7i6jmq"
 subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaakd25oxf2dhr6a6ct4rwqd5tim64ejgbyfok5mjkbs3gpjn7465ia'
-ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8N+ooQaLGbw6SbzJjJRcjMfMZfHtAET+cI96WyePYuSp+oXM9Qsz8nimZQHozcwOao9dlExHoMCLN+AhEanVT7a6FH/ssRKZ7Y0dQU9jUdDjRvzuUFm1p8dF96QRXyl7M44GpXIps6U20P+TyUL0PYuUOFscM3M/C9VlC9Xv0+czI++PPywa2vVVPTgzA5fJHOTzdJ5N+s0XZEZxobWwjgZ98X80pWh5rRt4umIC2AcuzGJGqO9m0c//jPrkOZ9ghbrij0N86UvZzNzLyfNAne/HblWhMyhM+9iZExFuoXkBWglbP9Hp/5gjFkvlJcPTito/U48XQdxjOymAtvqxz ssh-key-2021-05-27"
+ssh_authorized_keys = "ssh-rsa AAssh-key-2021-05-27"
 
 
 import oci
